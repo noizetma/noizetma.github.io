@@ -1,0 +1,22 @@
+---
+title: Students supervision
+---
+
+## Internships
+
+**Road Features detection from LiDAR data for map-aided localization of intelligent vehicles** | February-August 2023
+<br />
+Giacomo Rosato.
+Co-supervised with [Dr. Philippe Xu](https://www.hds.utc.fr/~xuphilip).
+
+## Student group projects
+
+**Pole base detection using vision transformers** | September 2023-January 2024
+<br />
+Alexandre Andre, Romain Froger.
+Co-supervised with [Dr. Julien Moreau](https://www.hds.utc.fr/~moreajul/dokuwiki/).
+
+**Pole base map-aided annotation and detection using YOLOv7** | September 2022-January 2023
+<br />
+Benjamin Missaoui.
+Co-supervised with [Dr. Philippe Xu](https://www.hds.utc.fr/~xuphilip).

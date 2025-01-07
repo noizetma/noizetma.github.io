@@ -1,0 +1,17 @@
+---
+title: Publications
+listing:
+    id: conference
+    sort: "date"
+    date-format: long
+    categories: true
+    contents:
+    - "*.qmd"
+    type: default
+    image-height: '100%'
+---
+
+## Conference papers
+
+:::{#conference}
+:::

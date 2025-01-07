@@ -1,0 +1,49 @@
+---
+title: "About me"
+about: 
+    template: jolla
+    image: imgs/me.jpeg
+    links: 
+      - icon: linkedin
+        text: LinkedIn
+        href: https://fr.linkedin.com/in/maxime-noizet
+---
+
+__Robotics Engineer, PhD__
+
+<u>E-mail:</u> maxime.noizet.ch@gmail.com
+
+I graduated with an engineering degree in Computer Science from the **Université de Technologie de Compiègne (UTC)**, with a specialization in real-time systems and embedded computing.
+
+Following my graduation, I worked for one year as a **Research Engineer** at the **Heudiasyc Laboratory**, where I contributed to research on localization integrity and statistical distribution approximation. This work was conducted under the supervision of [Dr. Philippe Xu](https://www.hds.utc.fr/~xuphilip) and [Dr. Jean-Benoist Léger](https://www.hds.utc.fr/~legerjea/).
+
+I then pursued a Ph.D. at the [Heudiasyc Laboratory](https://www.hds.utc.fr/) within the **SyRI (Robotic Systems in Interaction)** team. I was also a member of **SIVALab**, a joint laboratory between [Heudiasyc](https://www.hds.utc.fr), [UTC](https://utc.fr) / [CNRS](https://cnrs.fr), and the [Renault Group](https://www.renaultgroup.com/). My Ph.D. was supervised by [Dr. Philippe Xu](https://www.hds.utc.fr/~xuphilip) and [Prof. Philippe Bonnifait](https://www.hds.utc.fr/~bonnif), and focused on the following topic:
+
+> **Multi-Sensor Perception with Vector Maps for Autonomous Vehicle Localization**
+
+This research was part of the European project [ERASMO: Enhanced Receiver for Autonomous MObility](https://erasmo-gnss.eu/).
+
+Currently, I am employed as a **CNRS Research Engineer** at the **Heudiasyc Laboratory**, continuing my work on perception with vector maps for autonomous vehicle localization, extending the research I conducted during my Ph.D.
+
+
+## Education
+
+**Université de technologie de Compiègne** | Compiègne, France <br />
+Master Degree in Automatics and Robotics | 2019 - 2020
+
+**Université de technologie de Compiègne** | Compiègne, France <br />
+Engineering degree in computer science | 2015 - 2020
+
+## Experience
+
+**Heudiasyc UMR CNRS 7253** | Compiègne, France <br />
+Research engineer | January 2024 -June 2024
+
+**Heudiasyc UMR CNRS 7253, UTC** | Compiègne, France <br />
+Ph.D. Student | July 2021 - December 2024
+
+**Heudiasyc UMR CNRS 7253** | Compiègne, France <br />
+Research engineer | November 2020 - June 2021
+
+**Renault Group** | Guyancourt, France <br />
+Intern on long-term vehicle prediction for scene understanding | 2020

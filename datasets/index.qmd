@@ -1,0 +1,16 @@
+---
+title: Datasets
+listing:
+    id: dataset
+    sort: "date"
+    date-format: long
+    categories: false
+    contents:
+    - "*.qmd"
+    type: default
+    image-height: '100%'
+---
+
+
+:::{#dataset}
+:::

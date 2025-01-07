@@ -1,0 +1,54 @@
+---
+title: 'Pole-based Vehicle Localization with Vector Maps: A Camera-LiDAR Comparative Study'
+date: 2023-09-08
+affiliations:
+    - id: 1
+      name: Heudiasyc UMR CNRS 7253, Université de technologie de Compiègne
+      department: Haudiasyc UMR CNRSS 7253
+      city: Compiègne
+      country: FR
+    - id: 2
+      name: U2IS, ENSTA Paris, Institut Polytechnique de Paris
+      department: U2IS
+      city: Palaiseau
+      country: FR
+author:
+    - name: Maxime Noizet
+      orcid: 0009-0008-9321-9410
+      affiliation:
+        - ref: 1
+    - name: Philippe Xu
+      orcid: 0000-0001-7397-4808
+      affiliation:
+        - ref: 1
+        - ref: 2
+    - name: Philippe Bonnifait
+      orcid: 0000-0002-5842-1399
+      affiliation:
+        - ref: 1
+
+description: Published in 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)
+image: imgs/results_lidar_no_img.png
+abstract: >
+  For autonomous navigation, accurate localization with respect to a map is needed. In urban environments, infrastructure such as buildings or bridges cause major difficulties to Global Navigation Satellite Systems (GNSS) and, despite advances in inertial navigation, it is necessary to support them with other sources of exteroceptive information. In road environments, many common furniture such as traffic signs, traffic lights and street lights take the form of poles. By georeferencing these features in vector maps, they can be used within a localization filter that includes a detection pipeline and a data association method. Poles, having discriminative vertical structures, can be extracted from 3D geometric information using LiDAR sensors. Alternatively, deep neural networks can be employed to detect them from monocular cameras. The lack of depth information induces challenges in associating camera detections with map features. Yet, multi-camera integration provides a cost-efficient solution. This paper quantitatively evaluates the efficacy of these approaches in terms of localization. It introduces a real-time method for camera-based pole detection using a lightweight neural network trained on automatically annotated images. The proposed methods' efficiency is assessed on a challenging sequence with a vector map. The results highlight the high accuracy of the vision-based approach in open road conditions. 
+
+citation:
+    type: paper-conference
+    title: 'Pole-based Vehicle Localization with Vector Maps: A Camera-LiDAR Comparative Study'
+    url: https://ieeexplore.ieee.org/document/10422577
+    container-title: 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)
+    page-first: 1326
+    page-last: 1332
+    keyword: Location awareness;Global navigation satellite system;Laser radar;Roads;Sensor phenomena and characterization;Cameras;Feature extraction
+    doi: 10.1109/ITSC57777.2023.10422577
+
+categories:
+  - Conference Paper
+
+---
+
+
+
+
+This paper is available [on arXiv](https://arxiv.org/abs/2412.09649).
+
