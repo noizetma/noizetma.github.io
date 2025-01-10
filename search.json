@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "Robotics Engineer, PhD\nE-mail: maxime.noizet.ch@gmail.com\nI graduated with an engineering degree in Computer Science from the Université de Technologie de Compiègne (UTC), with a specialization in real-time systems and embedded computing.\nFollowing my graduation, I worked for one year as a Research Engineer at the Heudiasyc Laboratory, where I contributed to research on localization integrity and statistical distribution approximation. This work was conducted under the supervision of Dr. Philippe Xu and Dr. Jean-Benoist Léger.\nI then pursued a Ph.D. at the Heudiasyc Laboratory within the SyRI (Robotic Systems in Interaction) team. I was also a member of SIVALab, a joint laboratory between Heudiasyc, UTC / CNRS, and the Renault Group. My Ph.D. was supervised by Dr. Philippe Xu and Prof. Philippe Bonnifait, and focused on the following topic:\nThis research was part of the European project ERASMO: Enhanced Receiver for Autonomous MObility.\nCurrently, I am employed as a CNRS Research Engineer at the Heudiasyc Laboratory, continuing my work on perception with vector maps for autonomous vehicle localization, extending the research I conducted during my Ph.D."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About me",
+    "section": "Education",
+    "text": "Education\nUniversité de technologie de Compiègne | Compiègne, France  Master Degree in Automatics and Robotics | 2019 - 2020\nUniversité de technologie de Compiègne | Compiègne, France  Engineering degree in computer science | 2015 - 2020"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About me",
+    "section": "Experience",
+    "text": "Experience\nHeudiasyc UMR CNRS 7253 | Compiègne, France  Research engineer | January 2024 -June 2024\nHeudiasyc UMR CNRS 7253, UTC | Compiègne, France  Ph.D. Student | July 2021 - December 2024\nHeudiasyc UMR CNRS 7253 | Compiègne, France  Research engineer | November 2020 - June 2021\nRenault Group | Guyancourt, France  Intern on long-term vehicle prediction for scene understanding | 2020"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Conference Paper\n\n\n\n\nPublished in 2023 IEEE Intelligent Vehicles Symposium (IV)\n\n\n\n\n\n\nJune 4, 2023\n\n\nBenjamin Missaoui, Maxime Noizet, Philippe Xu\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nConference Paper\n\n\n\n\nPublished in 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)\n\n\n\n\n\n\nSeptember 8, 2023\n\n\nMaxime Noizet, Philippe Xu, Philippe Bonnifait\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nConference Paper\n\n\n\n\nPublished in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)\n\n\n\n\n\n\nOctober 16, 2024\n\n\nMaxime Noizet, Philippe Xu, Philippe Bonnifait\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html#conference-papers",
+    "href": "publications/index.html#conference-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "Conference Paper\n\n\n\n\nPublished in 2023 IEEE Intelligent Vehicles Symposium (IV)\n\n\n\n\n\n\nJune 4, 2023\n\n\nBenjamin Missaoui, Maxime Noizet, Philippe Xu\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nConference Paper\n\n\n\n\nPublished in 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)\n\n\n\n\n\n\nSeptember 8, 2023\n\n\nMaxime Noizet, Philippe Xu, Philippe Bonnifait\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nConference Paper\n\n\n\n\nPublished in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)\n\n\n\n\n\n\nOctober 16, 2024\n\n\nMaxime Noizet, Philippe Xu, Philippe Bonnifait\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/iv_2023.html",
+    "href": "publications/iv_2023.html",
+    "title": "Map-aided annotation for pole base detection",
+    "section": "",
+    "text": "This paper is available on arXiv.\n\n\n\nCitationBibTeX citation:@inproceedings{missaoui2023,\n  author = {Missaoui, Benjamin and Noizet, Maxime and Xu, Philippe},\n  title = {Map-Aided Annotation for Pole Base Detection},\n  booktitle = {2023 IEEE Intelligent Vehicles Symposium (IV)},\n  date = {2023-06-04},\n  url = {https://ieeexplore.ieee.org/document/10186774},\n  doi = {10.1109/IV55152.2023.10186774},\n  langid = {en},\n  abstract = {For autonomous navigation, high definition maps are a\n    widely used source of information. Pole-like features encoded in HD\n    maps such as traffic signs, traffic lights or street lights can be\n    used as landmarks for localization. For this purpose, they first\n    need to be detected by the vehicle using its embedded sensors. While\n    geometric models can be used to process 3D point clouds retrieved by\n    lidar sensors, modern image-based approaches rely on deep neural\n    network and therefore heavily depend on annotated training data. In\n    this paper, a 2D HD map is used to automatically annotate pole-like\n    features in images. In the absence of height information, the map\n    features are represented as pole bases at the ground level. We show\n    how an additional lidar sensor can be used to filter out occluded\n    features and refine the ground projection. We also demonstrate how\n    an object detector can be trained to detect a pole base. To evaluate\n    our methodology, it is first validated with data manually annotated\n    from semantic segmentation and then compared to our own\n    automatically generated annotated data recorded in the city of\n    Compiègne, France. .}\n}\nFor attribution, please cite this work as:\nMissaoui, Benjamin, Maxime Noizet, and Philippe Xu. 2023.\n“Map-Aided Annotation for Pole Base Detection.” In 2023\nIEEE Intelligent Vehicles Symposium (IV). https://doi.org/10.1109/IV55152.2023.10186774."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "SY27: Intelligent Vehicles | November 2021-January 2022  Supervision of student project: Autonomous navigation and development of a multi-sensor localization solution with integrity control.  Keywords: Localization, Integrity, Perception, Control\nSY27: Intelligent Vehicles | November 2022-January 2023  Supervision of student project: Autonomous navigation with human-machine interaction through a joystick simulatin a drive-by-wire system.  Keywords: Drive-by-wire, Interaction, Perception, Control\nSY02: Statistics | September 2021-January-2022, September 2022-January 2023 Program: Fundamentals of inferential statistics, estimation and confidence intervals, parametric tests, linear regression.\nSY27: Intelligent Vehicles | November 2023, November 2024  Lectured on perception for autonomous vehicle localization, multi-modal automatic annotation, and YOLOv7 training."
+  },
+  {
+    "objectID": "datasets/index.html",
+    "href": "datasets/index.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "Automatic Image Annotation for Mapped Features Detection\n\n\n\n\n\nUsed in the paper Automatic Image Annotation for Mapped Features Detection published in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)\n\n\n\n\n\n\nOctober 16, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "datasets/datasets_iros2024.html",
+    "href": "datasets/datasets_iros2024.html",
+    "title": "Automatic Image Annotation for Mapped Features Detection",
+    "section": "",
+    "text": "Download"
+  },
+  {
+    "objectID": "datasets/datasets_iros2024.html#purpose",
+    "href": "datasets/datasets_iros2024.html#purpose",
+    "title": "Automatic Image Annotation for Mapped Features Detection",
+    "section": "Purpose",
+    "text": "Purpose\nThis dataset was created to demonstrate the achievable performance of a pole base detector based on YOLOv7, trained using automatic annotations to minimize or eliminate the need for costly human labeling. By showcasing the capabilities and limitations of automatic annotations, as well as the resulting detection performance, This dataset paves the way for generating vast amounts of automatically labeled data and developing detectors specifically optimized for road environments and diverse use cases.\nThe final purpose of these detectors is to support autonomous vehicle localization by providing additional positioning information through the association of detections with georeferenced poles from the HD map."
+  },
+  {
+    "objectID": "datasets/datasets_iros2024.html#dataset-composition",
+    "href": "datasets/datasets_iros2024.html#dataset-composition",
+    "title": "Automatic Image Annotation for Mapped Features Detection",
+    "section": "Dataset Composition",
+    "text": "Dataset Composition\nIt consists of two main components:\n\nDataset for Object Detection:\nThis includes images and their corresponding annotations, enabling direct training and validation of detection models. Additionally, the detection weights used to produce the results presented in the associated paper are provided.\nRaw Data for Automatic Annotation:\nThis contains all the necessary data to regenerate the annotations in the training folder, allowing users to reproduce or customize the annotation process.\n\nIt contains the following data:\n\nNumber of images: 5,391 image for the training and 939 images for the validation\nImage resolution: 1280x720 pixels\nTraining annotations: Each image in the training set is provided with automatic annotations generated through three distinct methods: an image segmentation approach, a LiDAR-based approach, and a map-driven approach.\nValidation annotations: Images in the validation set were annotated by five different humans and validated by an additional one. While efforts were made to ensure accuracy, errors or missed pole bases may still occur. Bollards were intentionally excluded from annotations, as they are not represented in our HD maps. For subsequent localization tasks, we aim to develop a detector specifically designed to detect only mapped elements, which justifies this decision.\nEnvironment: The images were captured in both urban and rural settings within the small French city of Compiègne (approximately 70,000 residents), showcasing a variety of lighting conditions and weather scenarios.\n\n\nRaw data for automatic annotations\n\nHigh-definition vector map: A CSV file containing the georeferenced positions of all pole bases (except bollards not included in the map) in the city of Compiègne. The map was acquired in 2022, and since roadworks have taken place afterward, some errors may exist.\nPre trained image and pointcloud segmentation weights: The used weights by lidar-based and image segmentation-based methods are provided.\nLidar pointclouds: For each image, the corresponding point cloud is provided to extract poles and annotate them using the lidar-based method or to refine the map-based approach.\nSensor calibration: The training and validation sets include their own calibration parameters, enabling transformations between the map frame, vehicle frame, image frame, and lidar frame.\nVehicle reference poses: The training set consists of images extracted from three different sequences, while the validated set is derived from two different sequences. The sequence of each image can be identified by its filename, which corresponds to the acquisition timestamp. For each sequence, the reference poses of the vehicle are provided to transform the map data into the vehicle frame for the map-based automatic annotation approaches."
+  },
+  {
+    "objectID": "datasets/datasets_iros2024.html#map-based-annotation",
+    "href": "datasets/datasets_iros2024.html#map-based-annotation",
+    "title": "Automatic Image Annotation for Mapped Features Detection",
+    "section": "Map-based annotation",
+    "text": "Map-based annotation\nA first approach is to use a 2D High Definition (HD) vector map along with a high accuracy localization system. The poles georeferenced within the field of view of the camera are extracted from the map and projected onto the images. Even though the poles contained in the map concern furniture (such as traffic signs, traffic lights or streetlamps) which is stable over time, the map can still become outdated. So, false positives and negatives are inevitable. To project the 2D map features at the ground level, a lidar is used to estimate the ground and check for occluded pole bases. To mitigate the risk of false positives and enhance positioning accuracy, we refrain from annotating distant poles, even if it may introduce the possibility of false negatives.\nMore details are provided in the conference paper published at IV2023 and in the thesis manuscript."
+  },
+  {
+    "objectID": "datasets/datasets_iros2024.html#image-segmentation-based-annotation",
+    "href": "datasets/datasets_iros2024.html#image-segmentation-based-annotation",
+    "title": "Automatic Image Annotation for Mapped Features Detection",
+    "section": "Image segmentation-based annotation",
+    "text": "Image segmentation-based annotation\nWe use the HRNet image semantic segmentation neural network and pre-trained on the BDD100K dataset to extract pole bases from estimated segmentation masks. We combine all pole-related classes to form entire pole clusters to check if they are connected to ground pixels. It ensures that only large clusters of pole pixels are considered, thus minimizing the influence of poor segmentation. However, some poles can be merged during clustering. To avoid this, we have chosen to extract any small clusters of pixels lying on the ground. Some wrong annotations can be introduced in the process: some correspond to bollards and some to other errors. However, it is capable of annotating more pole bases than the map-based approach.\nMore details are provided in the conference paper published at ITSC2023 and in the thesis manuscript."
+  },
+  {
+    "objectID": "datasets/datasets_iros2024.html#lidar-based-annotation",
+    "href": "datasets/datasets_iros2024.html#lidar-based-annotation",
+    "title": "Automatic Image Annotation for Mapped Features Detection",
+    "section": "Lidar-based annotation",
+    "text": "Lidar-based annotation\nWe segment the point cloud using Cylinder3D, a 3D convolution network pre-trained on SemanticKITTI. Then, we group the points classified as poles into clusters to identify each pole individually and fit a 3D bounding box. The pole base 3D coordinates corresponds to the center of the bottom face of the bounding box, which is in turn projected on the image to generate the annotation. Similarly to the image segmentation annotation, the neural network trained for the lidar segmentation consider that bollards belong semantically to the pole class. Far poles are not annotated due to the data sparsity and the lack of points.\nMore details are provided in the conference paper published at IROS2024 and in the thesis manuscript."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Multi-Sensor Perception with Vector Maps for Autonomous Vehicle Localization\nFor autonomous vehicles, it is crucial to find localization solutions that meet the requirements of navigation tasks. For safety reasons, the localization system must provide accurate and reliable pose estimates, with a high availability and a low latency. To this end, multi-sensor data fusion techniques are employed. They generally combine GNSS receivers with proprioceptive sensors that provide vehicle kinematics and dynamics. In this PhD thesis, we particularly focus on the use of additional exteroceptive sensors such as lidars and cameras which can provide measurements on features georeferenced in maps. These sensors help overcome GNSS limitations in complex environments like urban areas, enabling lane-level positioning.\nWhen using perception sensors, various methods can provide localization information. A common approach in robotics is implementing Simultaneous Localization and Mapping (SLAM) with GNSS constraints. This builds a local map online from raw sensor data, which can then be used for re-localization with the same sensors. Using accurate prior maps offers an interesting alternative enabling immediate localization upon entering a new area without the need to create a map anew. In this PhD thesis, we consider high-definition (HD) vector maps containing georeferenced road features represented as points or polylines. They encompass a wide range of physical elements essential for navigation such as traffic signs or road markings.\nThe main goal of this thesis is to leverage all the potential offered by HD vector maps to improve localization, through a perception system whose performance has been optimized for this purpose. As a case study, our research focuses on detecting pole-like features, which are commonly found throughout road environments and georeferenced in HD maps. More specifically, we present camera and lidar perception approaches enabled by a map-based automatic annotation method. This method can annotate any kind of mapped poles. To enhance annotation accuracy and completeness, we integrate this primary method with additional automatic annotation sources. We train detectors to identify pole bases in camera images and from clusters of lidar points. This integration ensures that detected poles conform to the definitions used in the HD map. Finally, these detection approaches are integrated in a multi-sensor fusion system to assess their benefits for a localization system\nGiven the approaches explored, the thesis heavily relies on experimental data collected from vehicles equipped with lidar sensors and cameras. This work was carried out in synergy with the European project ERASMO, which aimed to develop a highly accurate and reliable localization system for autonomous vehicles.\nSlides Thesis PhD defense"
+  },
+  {
+    "objectID": "research.html#thesis",
+    "href": "research.html#thesis",
+    "title": "Research",
+    "section": "",
+    "text": "Multi-Sensor Perception with Vector Maps for Autonomous Vehicle Localization\nFor autonomous vehicles, it is crucial to find localization solutions that meet the requirements of navigation tasks. For safety reasons, the localization system must provide accurate and reliable pose estimates, with a high availability and a low latency. To this end, multi-sensor data fusion techniques are employed. They generally combine GNSS receivers with proprioceptive sensors that provide vehicle kinematics and dynamics. In this PhD thesis, we particularly focus on the use of additional exteroceptive sensors such as lidars and cameras which can provide measurements on features georeferenced in maps. These sensors help overcome GNSS limitations in complex environments like urban areas, enabling lane-level positioning.\nWhen using perception sensors, various methods can provide localization information. A common approach in robotics is implementing Simultaneous Localization and Mapping (SLAM) with GNSS constraints. This builds a local map online from raw sensor data, which can then be used for re-localization with the same sensors. Using accurate prior maps offers an interesting alternative enabling immediate localization upon entering a new area without the need to create a map anew. In this PhD thesis, we consider high-definition (HD) vector maps containing georeferenced road features represented as points or polylines. They encompass a wide range of physical elements essential for navigation such as traffic signs or road markings.\nThe main goal of this thesis is to leverage all the potential offered by HD vector maps to improve localization, through a perception system whose performance has been optimized for this purpose. As a case study, our research focuses on detecting pole-like features, which are commonly found throughout road environments and georeferenced in HD maps. More specifically, we present camera and lidar perception approaches enabled by a map-based automatic annotation method. This method can annotate any kind of mapped poles. To enhance annotation accuracy and completeness, we integrate this primary method with additional automatic annotation sources. We train detectors to identify pole bases in camera images and from clusters of lidar points. This integration ensures that detected poles conform to the definitions used in the HD map. Finally, these detection approaches are integrated in a multi-sensor fusion system to assess their benefits for a localization system\nGiven the approaches explored, the thesis heavily relies on experimental data collected from vehicles equipped with lidar sensors and cameras. This work was carried out in synergy with the European project ERASMO, which aimed to develop a highly accurate and reliable localization system for autonomous vehicles.\nSlides Thesis PhD defense"
+  },
+  {
+    "objectID": "research.html#erasmo-project",
+    "href": "research.html#erasmo-project",
+    "title": "Research",
+    "section": "ERASMO Project",
+    "text": "ERASMO Project\nEnhanced Receiver for AutonomouS MObility\nPartners: Artisense, GMV, Nextium, Renault, Septentrio, VVA\nJune 2021 - June 2024\n\n\nERASMO developed an innovative positioning On-Board-Unit (OBU) that enabled fully automated driving. The OBU integrated a GNSS receiver together with additional sensors to achieve the target applications’ performance. To meet the required performance targets, the OBU also made use of a communication channel to take advantage of the cooperative positioning concept. The OBU optimally leveraged the E-GNSS differentiators by implementing one or several of the following technical aspects:\n\nMulti-constellation, multi-frequencies (E1 or E5, alternatively E1 and E6, ideally also including the E5/AltBOC wideband processing);\nHigh accuracy techniques (PPP, RTK, or hybrid options), as well as longer integration time thanks to the use of pilot signals;\nGalileo authentication features that increased the solution’s trustworthiness.\n\nThe developed ERASMO receiver OBU was cost-efficient, and the outcome of the development was a close-to-market prototype(s), which corresponded to reaching a Technology Readiness Level (TRL) of at least 7. The ERASMO OBU provided localisation estimates for the navigation of automated vehicles with the highest level of precision, integrity, and availability, by leveraging the information broadcasted by the Galileo GNSS and the combination of absolute and relative localisation methods. Additionally, the objective was to optimise the use of Galileo signals in terms of accuracy, integrity, correction features, and availability. The OBU allowed for the hybridisation of GNSS data with information from multi-sensors and vehicle information to attain the best absolute localisation information possible and to measure the level of integrity achieved. The solution determined the relative localisation of vehicles equipped with such an OBU by leveraging perception sensors available for autonomous driving and a priori information stored in navigation maps. Furthermore, the project combined both relative and absolute localisation estimates to provide high accuracy and high availability localisation information for autonomous driving and other location-dependent applications, including an estimate of the system integrity level.\nThe ERASMO project demonstrated and measured the performance of the proposed solution experimentally in peri-urban and urban road networks and ensured that the solution was economically and operationally feasible for use in passenger vehicles."
+  },
+  {
+    "objectID": "research.html#other-activites",
+    "href": "research.html#other-activites",
+    "title": "Research",
+    "section": "Other activites",
+    "text": "Other activites\nJournée des Jeunes Chercheurs en Robotique (JJCR) | October 2023  Organization of a day composed of conferences presented by PhD candidates, posters, interviews of researchers, …\nFête de la Science | October 2021, October 2022  Participation in popularization activities and demonstrations. Presentation of the autonomous platform of Heudiasyc laboratory.\nTornado project: Autonomous vehicles and infrastructure interactions for mobility services in lightly populated zones | Spring 2021  Demonstration preparation.\nIntern at Renault Group: | February 2020 - July 2020  Long-term vehicle prediction for scene understanding. Supervised by Alexandre Armand and Corentin Sanchez (Part of his thesis on world model).\nEscape project: European Safety Critical Applications Positioning Engine | Autumn 2019  Development of evaluation and visualization tools for project demonstration."
+  },
+  {
+    "objectID": "students.html",
+    "href": "students.html",
+    "title": "Students supervision",
+    "section": "",
+    "text": "Road Features detection from LiDAR data for map-aided localization of intelligent vehicles | February-August 2023  Giacomo Rosato. Co-supervised with Dr. Philippe Xu."
+  },
+  {
+    "objectID": "students.html#internships",
+    "href": "students.html#internships",
+    "title": "Students supervision",
+    "section": "",
+    "text": "Road Features detection from LiDAR data for map-aided localization of intelligent vehicles | February-August 2023  Giacomo Rosato. Co-supervised with Dr. Philippe Xu."
+  },
+  {
+    "objectID": "students.html#student-group-projects",
+    "href": "students.html#student-group-projects",
+    "title": "Students supervision",
+    "section": "Student group projects",
+    "text": "Student group projects\nPole base detection using vision transformers | September 2023-January 2024  Alexandre Andre, Romain Froger. Co-supervised with Dr. Julien Moreau.\nPole base map-aided annotation and detection using YOLOv7 | September 2022-January 2023  Benjamin Missaoui. Co-supervised with Dr. Philippe Xu."
+  },
+  {
+    "objectID": "publications/itsc_2023.html",
+    "href": "publications/itsc_2023.html",
+    "title": "Pole-based Vehicle Localization with Vector Maps: A Camera-LiDAR Comparative Study",
+    "section": "",
+    "text": "This paper is available on arXiv.\n\n\n\nCitationBibTeX citation:@inproceedings{noizet2023,\n  author = {Noizet, Maxime and Xu, Philippe and Bonnifait, Philippe},\n  title = {Pole-Based {Vehicle} {Localization} with {Vector} {Maps:} {A}\n    {Camera-LiDAR} {Comparative} {Study}},\n  booktitle = {2023 IEEE 26th International Conference on Intelligent\n    Transportation Systems (ITSC)},\n  pages = {1326 - 1332},\n  date = {2023-09-08},\n  url = {https://ieeexplore.ieee.org/document/10422577},\n  doi = {10.1109/ITSC57777.2023.10422577},\n  langid = {en},\n  abstract = {For autonomous navigation, accurate localization with\n    respect to a map is needed. In urban environments, infrastructure\n    such as buildings or bridges cause major difficulties to Global\n    Navigation Satellite Systems (GNSS) and, despite advances in\n    inertial navigation, it is necessary to support them with other\n    sources of exteroceptive information. In road environments, many\n    common furniture such as traffic signs, traffic lights and street\n    lights take the form of poles. By georeferencing these features in\n    vector maps, they can be used within a localization filter that\n    includes a detection pipeline and a data association method. Poles,\n    having discriminative vertical structures, can be extracted from 3D\n    geometric information using LiDAR sensors. Alternatively, deep\n    neural networks can be employed to detect them from monocular\n    cameras. The lack of depth information induces challenges in\n    associating camera detections with map features. Yet, multi-camera\n    integration provides a cost-efficient solution. This paper\n    quantitatively evaluates the efficacy of these approaches in terms\n    of localization. It introduces a real-time method for camera-based\n    pole detection using a lightweight neural network trained on\n    automatically annotated images. The proposed methods’ efficiency is\n    assessed on a challenging sequence with a vector map. The results\n    highlight the high accuracy of the vision-based approach in open\n    road conditions.}\n}\nFor attribution, please cite this work as:\nNoizet, Maxime, Philippe Xu, and Philippe Bonnifait. 2023.\n“Pole-Based Vehicle Localization with Vector Maps: A Camera-LiDAR\nComparative Study.” In 2023 IEEE 26th International\nConference on Intelligent Transportation Systems (ITSC), 1326–32.\nhttps://doi.org/10.1109/ITSC57777.2023.10422577."
+  },
+  {
+    "objectID": "publications/iros_2024.html",
+    "href": "publications/iros_2024.html",
+    "title": "Automatic Image Annotation for Mapped Features Detection",
+    "section": "",
+    "text": "This paper is available on arXiv.\nThe results are demonstrated in a video available on YouTube.\nThe video showcases a segment of a driving sequence from the dataset used in this study and provides a detailed presentation of the results.\nInitially, the video highlights the automatic annotations generated by the three methods proposed in the paper. It then demonstrates the process of merging these annotation sources, using different colors for the crosses representing annotations to indicate the level of consensus among the methods. Specifically, annotations validated by all methods are distinguished from those that are ambiguous.\nNext, the video illustrates how black patches were added to address uncertainties in the annotations. Finally, it presents the results of pole base detection using a YOLOv7 neural network. This network was trained on high-consensus automatic annotations, with the input images modified to mask ambiguous objects.\n\n\n\nCitationBibTeX citation:@inproceedings{noizet2024,\n  author = {Noizet, Maxime and Xu, Philippe and Bonnifait, Philippe},\n  title = {Automatic {Image} {Annotation} for {Mapped} {Features}\n    {Detection}},\n  booktitle = {2024 IEEE/RSJ International Conference on Intelligent\n    Robots and Systems (IROS)},\n  pages = {9367 - 9373},\n  date = {2024-10-16},\n  url = {https://ieeexplore.ieee.org/document/10801773},\n  doi = {10.1109/IROS58592.2024.10801773},\n  langid = {en},\n  abstract = {Detecting road features is a key enabler for autonomous\n    driving and localization. For instance, a reliable detection of\n    poles which are widespread in road environments can improve\n    localization. Modern deep learning-based perception systems need a\n    significant amount of annotated data. Automatic annotation avoids\n    time-consuming and costly manual annotation. Because automatic\n    methods are prone to errors, managing annotation uncertainty is\n    crucial to ensure a proper learning process. Fusing multiple\n    annotation sources on the same dataset can be an efficient way to\n    reduce the errors. This not only improves the quality of\n    annotations, but also improves the learning of perception models. In\n    this paper, we consider the fusion of three automatic annotation\n    methods in images: feature projection from a high accuracy vector\n    map combined with a lidar, image segmentation and lidar\n    segmentation. Our experimental results demonstrate the significant\n    benefits of multi-modal automatic annotation for pole detection\n    through a comparative evaluation on manually annotated images.\n    Finally, the resulting multi-modal fusion is used to fine-tune an\n    object detection model for pole base detection using unlabeled data,\n    showing overall improvements achieved by enhancing network\n    specialization. The dataset is publicly available.}\n}\nFor attribution, please cite this work as:\nNoizet, Maxime, Philippe Xu, and Philippe Bonnifait. 2024.\n“Automatic Image Annotation for Mapped Features Detection.”\nIn 2024 IEEE/RSJ International Conference on Intelligent Robots and\nSystems (IROS), 9367–73. https://doi.org/10.1109/IROS58592.2024.10801773."
+  }
+]

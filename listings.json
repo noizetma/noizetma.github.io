@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/iv_2023.html",
+      "/publications/itsc_2023.html",
+      "/publications/iros_2024.html"
+    ]
+  },
+  {
+    "listing": "/datasets/index.html",
+    "items": [
+      "/datasets/datasets_iros2024.html"
+    ]
+  }
+]
