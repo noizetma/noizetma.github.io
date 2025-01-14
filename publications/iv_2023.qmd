@@ -1,0 +1,51 @@
+---
+title: Map-aided annotation for pole base detection
+date: 2023-06-04
+affiliations:
+    - id: 1
+      name: Heudiasyc UMR CNRS 7253, Université de technologie de Compiègne
+      department: Haudiasyc UMR CNRSS 7253
+      city: Compiègne
+      country: FR
+    - id: 2
+      name: U2IS, ENSTA Paris, Institut Polytechnique de Paris
+      department: U2IS
+      city: Palaiseau
+      country: FR
+author:
+    - name: Benjamin Missaoui
+      affiliation:
+        - ref: 1
+    - name: Maxime Noizet
+      orcid: 0009-0008-9321-9410
+      affiliation:
+        - ref: 1
+    - name: Philippe Xu
+      orcid: 0000-0001-7397-4808
+      affiliation:
+        - ref: 1
+        - ref: 2
+
+description: Published in 2023 IEEE Intelligent Vehicles Symposium (IV)
+image: imgs/image_occlusion_17710_after_patchwork-3-1-1.png
+
+abstract: >
+  For autonomous navigation, high definition maps are a widely used source of information. Pole-like features encoded in HD maps such as traffic signs, traffic lights or street lights can be used as landmarks for localization. For this purpose, they first need to be detected by the vehicle using its embedded sensors. While geometric models can be used to process 3D point clouds retrieved by lidar sensors, modern image-based approaches rely on deep neural network and therefore heavily depend on annotated training data. In this paper, a 2D HD map is used to automatically annotate pole-like features in images. In the absence of height information, the map features are represented as pole bases at the ground level. We show how an additional lidar sensor can be used to filter out occluded features and refine the ground projection. We also demonstrate how an object detector can be trained to detect a pole base. To evaluate our methodology, it is first validated with data manually annotated from semantic segmentation and then compared to our own automatically generated annotated data recorded in the city of Compiègne, France. .
+
+citation:
+    type: paper-conference
+    title: 'Map-aided annotation for pole base detection'
+    url: https://ieeexplore.ieee.org/document/10186774
+    container-title: 2023 IEEE Intelligent Vehicles Symposium (IV)
+    keyword: Location awareness;Training;Laser radar;Three-dimensional displays;Annotations;Semantic segmentation;Urban areas
+    doi: 10.1109/IV55152.2023.10186774
+
+categories:
+  - Conference Paper
+
+---
+
+
+
+This paper is available [on arXiv](https://arxiv.org/abs/2403.01868).
+

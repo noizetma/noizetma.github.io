@@ -1,0 +1,32 @@
+project:
+  type: website
+
+execute: 
+  freeze: auto
+
+resources: 
+  - docs/CV_NOIZET_Maxime.pdf
+  - docs/CV_NOIZET_Maxime_EN.pdf
+
+
+website:
+  title: "Maxime Noizet"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+      - href: publications/index.html
+        text: Publications
+      - href: datasets/index.html
+        text: Datasets
+      - href: students.qmd
+      - href: teaching.qmd
+      
+      
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true

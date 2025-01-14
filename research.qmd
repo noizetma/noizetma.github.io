@@ -1,0 +1,73 @@
+---
+title: Research
+---
+
+## Thesis
+
+<u>Multi-Sensor Perception with Vector Maps for Autonomous Vehicle Localization</u>
+
+For autonomous vehicles, it is crucial to find localization solutions that meet the requirements of navigation tasks. For safety reasons, the localization system must provide accurate and reliable pose estimates, with a high availability and a low latency. To this end, multi-sensor data fusion techniques are employed. They generally combine GNSS receivers with proprioceptive sensors that provide vehicle kinematics and dynamics. In this PhD thesis, we particularly focus on the use of additional exteroceptive sensors such as lidars and cameras which can provide measurements on features georeferenced in maps. These sensors help overcome GNSS limitations in complex environments like urban areas, enabling lane-level positioning.
+
+
+When using perception sensors, various methods can provide localization information. A common approach in robotics is implementing Simultaneous Localization and Mapping (SLAM) with GNSS constraints. This builds a local map online from raw sensor data, which can then be used for re-localization with the same sensors.
+Using accurate prior maps offers an interesting alternative enabling immediate localization upon entering a new area without the need to create a map anew. In this PhD thesis, we consider high-definition (HD) vector maps containing georeferenced road features represented as points or polylines. They encompass a wide range of physical elements essential for navigation such as traffic signs or road markings.
+
+The main goal of this thesis is to leverage all the potential offered by HD vector maps to improve localization, through a perception system whose performance has been optimized for this purpose.
+As a case study, our research focuses on detecting pole-like features, which are commonly found throughout road environments and georeferenced in HD maps.
+More specifically, we present camera and lidar perception approaches enabled by a map-based automatic annotation method.
+This method can annotate any kind of mapped poles. To enhance annotation accuracy and completeness, we integrate this primary method with additional automatic annotation sources. We train detectors to identify pole bases in camera images and from clusters of lidar points. This integration ensures that detected poles conform to the definitions used in the HD map.
+Finally, these detection approaches are integrated in a multi-sensor fusion system  to assess their benefits for a localization system
+
+Given the approaches explored, the thesis heavily relies on experimental data collected from vehicles equipped with lidar sensors and cameras. This work was carried out in synergy with the European project ERASMO, which aimed to develop a highly accurate and reliable localization system for autonomous vehicles.
+
+[Slides](https://slides-soutenance-quarto-0a519a.gitlab.utc.fr/presentation2.html#/title-slide){.btn .btn-outline-primary .btn role="button"}
+[Thesis](Not available for the moment){.btn .btn-outline-primary .btn role="button"}
+[PhD defense](https://youtu.be/EIdAI7onzBs?si=dEg2v9Xa5Jg0N_Lp){.btn .btn-outline-primary .btn role="button"}
+
+
+## ERASMO Project
+
+[Enhanced Receiver for AutonomouS MObility](https://erasmo-gnss.eu/)
+
+<u>Partners:</u> Artisense, GMV, Nextium, Renault, Septentrio, VVA
+
+June 2021 - June 2024
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A6BDxoHM5so?si=2G6cTg7vRWmz8yj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ERASMO developed an innovative positioning On-Board-Unit (OBU) that enabled fully automated driving. The OBU integrated a GNSS receiver together with additional sensors to achieve the target applications’ performance. To meet the required performance targets, the OBU also made use of a communication channel to take advantage of the cooperative positioning concept. The OBU optimally leveraged the E-GNSS differentiators by implementing one or several of the following technical aspects:
+
+- Multi-constellation, multi-frequencies (E1 or E5, alternatively E1 and E6, ideally also including the E5/AltBOC wideband processing);
+- High accuracy techniques (PPP, RTK, or hybrid options), as well as longer integration time thanks to the use of pilot signals;
+- Galileo authentication features that increased the solution's trustworthiness.
+
+The developed ERASMO receiver OBU was cost-efficient, and the outcome of the development was a close-to-market prototype(s), which corresponded to reaching a Technology Readiness Level (TRL) of at least 7. The ERASMO OBU provided localisation estimates for the navigation of automated vehicles with the highest level of precision, integrity, and availability, by leveraging the information broadcasted by the Galileo GNSS and the combination of absolute and relative localisation methods. Additionally, the objective was to optimise the use of Galileo signals in terms of accuracy, integrity, correction features, and availability. The OBU allowed for the hybridisation of GNSS data with information from multi-sensors and vehicle information to attain the best absolute localisation information possible and to measure the level of integrity achieved. The solution determined the relative localisation of vehicles equipped with such an OBU by leveraging perception sensors available for autonomous driving and a priori information stored in navigation maps. Furthermore, the project combined both relative and absolute localisation estimates to provide high accuracy and high availability localisation information for autonomous driving and other location-dependent applications, including an estimate of the system integrity level.
+
+The ERASMO project demonstrated and measured the performance of the proposed solution experimentally in peri-urban and urban road networks and ensured that the solution was economically and operationally feasible for use in passenger vehicles.
+
+
+
+## Other activites
+
+**Journée des Jeunes Chercheurs en Robotique (JJCR)** | October 2023
+<br />
+Organization of a day composed of conferences presented by PhD candidates, posters, interviews of researchers, ...
+
+**Fête de la Science** | October 2021, October 2022
+<br />
+Participation in popularization activities and demonstrations. Presentation of the autonomous platform of Heudiasyc laboratory.
+
+
+**Tornado project: [Autonomous vehicles and infrastructure interactions for mobility services in lightly populated zones](https://www.tornado-mobility.com)** | Spring 2021
+<br />
+Demonstration preparation.
+
+**Intern at Renault Group:** | February 2020 - July 2020
+<br />
+Long-term vehicle prediction for scene understanding. Supervised by [Alexandre Armand](https://fr.linkedin.com/in/alexandre-armand-19428941) and [Corentin Sanchez](https://fr.linkedin.com/in/corentin-sanchez-41-0456137) (Part of his thesis on world model). 
+
+
+**Escape project: [European Safety Critical Applications Positioning Engine](http://www.gnss-escape.eu/)** | Autumn 2019
+<br />
+Development of evaluation and visualization tools for project demonstration.
+
