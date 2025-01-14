@@ -1,1 +1,1 @@
-Sitemap: https://noizetma.github.io/website/sitemap.xml
+Sitemap: https://noizetma.github.io/sitemap.xml
