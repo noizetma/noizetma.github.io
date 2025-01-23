@@ -22,3 +22,8 @@ Program: Fundamentals of inferential statistics, estimation and confidence inter
 <br />
 Lectured on perception for autonomous vehicle localization, multi-modal automatic annotation, and YOLOv7 training.
 <br />
+
+**ARS4: Estimation for Autonomous Navigatio** | December 2024-January 2025
+<br />
+Proposed a project centered on localization using lidar-detected poles and traffic signs. The students were tasked with designing a multi-sensor fusion approach that integrated GNSS, lidar measurements associated with mapped elements, and vehicle kinematics. The project began with simulated data without any data association step, progressing to experiments with real-world data. They implemented and evaluated Extended and Unscented Kalman Filters to achieve improved localization accuracy and consistency.
+<br />
