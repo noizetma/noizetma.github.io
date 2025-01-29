@@ -19,7 +19,8 @@ citation:
     - Philippe Bonnifait
 ---
 
-[Download](https://datasets.hds.utc.fr/share/vBMPrMDM2wOEd2g){.btn .btn-outline-primary .btn role="button"}
+
+[{{< fa database >}} Dataset](https://datasets.hds.utc.fr/share/vBMPrMDM2wOEd2g){.btn .btn-outline-info .btn role="button"} [{{< fa download >}} YOLOv7 weights](https://datasets.hds.utc.fr/file/download/671){.btn .btn-outline-info .btn role="button"} [{{< fa download >}} Train/Val data](https://datasets.hds.utc.fr/file/download/672){.btn .btn-outline-info .btn role="button"}[{{< fa download >}}  Data for annotation](https://datasets.hds.utc.fr/file/download/674){.btn .btn-outline-info .btn role="button"}
 
 
 # Dataset Overview
@@ -71,7 +72,7 @@ The dataset is hosted on heudiasyc laboratory dataset platform and can be downlo
 
 The dataset is provided under the Creative Commons Attribution 4.0 International (CC BY 4.0) License, allowing for both academic and commercial use with proper attribution.
 
-If you use this dataset in your research or projects, please cite the associated paper as follows:
+If you use this dataset in your research or projects, please cite the associated paper as indicated at the end of this page.
 
 
 # Example Visuals
