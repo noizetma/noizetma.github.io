@@ -21,7 +21,7 @@ Finally, these detection approaches are integrated in a multi-sensor fusion syst
 Given the approaches explored, the thesis heavily relies on experimental data collected from vehicles equipped with lidar sensors and cameras. This work was carried out in synergy with the European project ERASMO, which aimed to develop a highly accurate and reliable localization system for autonomous vehicles.
 
 [Slides](https://slides-soutenance-quarto-0a519a.gitlab.utc.fr/presentation2.html#/title-slide){.btn .btn-outline-primary .btn role="button"}
-[Thesis](Not available for the moment){.btn .btn-outline-primary .btn role="button"}
+[Thesis](docs/phd_thesis_NOIZET_Maxime_final.pdf){.btn .btn-outline-primary .btn role="button"}
 [PhD defense](https://youtu.be/EIdAI7onzBs?si=dEg2v9Xa5Jg0N_Lp){.btn .btn-outline-primary .btn role="button"}
 
 
